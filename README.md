@@ -1,1 +1,1 @@
-# EZ-Training
+# EZ-ProductBased_20DaysTraining
